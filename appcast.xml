@@ -18,5 +18,18 @@
       length="3673617"
       type="application/octet-stream"/>
   </item>
+  <item>
+    <title>szvon 0.1.0</title>
+    <description><![CDATA[Installer build 0.1.0]]></description>
+    <pubDate>Tue, 26 May 2026 13:26:20 +0000</pubDate>
+    <sparkle:version>0.1.0</sparkle:version>
+    <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    <enclosure
+      url="https://github.com/mkultraaaa/szvon-recorder-releases/releases/download/v0.1.0/szvon-0.1.0.dmg"
+      sparkle:edSignature="DSemj5xTktWsMQGNARZfzARt+Ot4ipLtfokP4GM2DAiDp8WWqA6crbShRQ7xLMlNepfQWb6KzW6KjI4u3aapCw=="
+      length="3675186"
+      type="application/octet-stream"/>
+  </item>
 </channel>
 </rss>
