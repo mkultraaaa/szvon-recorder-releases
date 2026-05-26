@@ -5,5 +5,18 @@
   <link>https://raw.githubusercontent.com/mkultraaaa/szvon-recorder-releases/main/appcast.xml</link>
   <description>Most recent MyKrisp releases for Sparkle auto-update.</description>
   <language>en</language>
+  <item>
+    <title>szvon 0.1.0</title>
+    <description><![CDATA[Initial release: Russian UI, fixed mic capture, auto-update enabled]]></description>
+    <pubDate>Tue, 26 May 2026 13:08:51 +0000</pubDate>
+    <sparkle:version>0.1.0</sparkle:version>
+    <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    <enclosure
+      url="https://github.com/mkultraaaa/szvon-recorder-releases/releases/download/v0.1.0/szvon-0.1.0.dmg"
+      sparkle:edSignature="j58nWxmXuBzj+jOMIPGq3+PNQc4dvRvA1LasV+wUr7DFxCp/djOSvOP5FkjGVonxX7pppKfe0i3j16+2/Wy4CA=="
+      length="3673617"
+      type="application/octet-stream"/>
+  </item>
 </channel>
 </rss>
