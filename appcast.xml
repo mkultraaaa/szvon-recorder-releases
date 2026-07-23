@@ -6,13 +6,13 @@
   <description>Most recent szvon releases for Sparkle auto-update.</description>
   <language>ru</language>
   <item>
-    <title>szvon 0.1.1</title>
-    <description><![CDATA[Фикс краша фоновой заливки, авто-очистка диска после загрузки, опция «Хранить записи локально», кнопка копирования кода пейринга.]]></description>
-    <pubDate>Thu, 23 Jul 2026 15:53:18 +0000</pubDate>
-    <sparkle:version>0.1.1</sparkle:version>
-    <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+    <title>szvon 0.1.2</title>
+    <description><![CDATA[Запись только с подключённым аккаунтом (без входа записи не теряются), понятный онбординг разрешений, вход по ссылке в один клик.]]></description>
+    <pubDate>Thu, 23 Jul 2026 18:19:34 +0000</pubDate>
+    <sparkle:version>0.1.2</sparkle:version>
+    <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="ow/93KF09DbTqCLSKlp2KMY6im07CUpDkpIRfimy7Yi862iAb3b2sfMJqxz40lKV7TMsU6zlwxCh3lVmtgT5BQ==" length="3919668" type="application/octet-stream"/>
+    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="reEZQGkjnW7RPouKefnCWm+5yUjIv6FAkux6gMTvj/XgoXFIwGmbg607dbUBkQ9H3rjNBKUhbCXkOXCzo9jHDA==" length="3928918" type="application/octet-stream"/>
   </item>
 </channel>
 </rss>
