@@ -6,13 +6,13 @@
   <description>Most recent szvon releases for Sparkle auto-update.</description>
   <language>ru</language>
   <item>
-    <title>szvon 0.1.2</title>
-    <description><![CDATA[Запись только с подключённым аккаунтом (без входа записи не теряются), понятный онбординг разрешений, вход по ссылке в один клик.]]></description>
-    <pubDate>Thu, 23 Jul 2026 18:19:34 +0000</pubDate>
-    <sparkle:version>0.1.2</sparkle:version>
-    <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+    <title>szvon 0.1.3</title>
+    <description><![CDATA[Новая иконка. Плюс: запись только с подключённым аккаунтом, понятный онбординг, вход по ссылке в один клик.]]></description>
+    <pubDate>Thu, 23 Jul 2026 19:48:00 +0000</pubDate>
+    <sparkle:version>0.1.3</sparkle:version>
+    <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="reEZQGkjnW7RPouKefnCWm+5yUjIv6FAkux6gMTvj/XgoXFIwGmbg607dbUBkQ9H3rjNBKUhbCXkOXCzo9jHDA==" length="3928918" type="application/octet-stream"/>
+    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="N7np/ySg6hQ0qe7WGW3IM2PgC8cGO04tq0QM3GGLGoShhzSA2igCF/+8yHJTKVF+gZBO1FXZ4GIOC2iqAyuqBw==" length="3481452" type="application/octet-stream"/>
   </item>
 </channel>
 </rss>
