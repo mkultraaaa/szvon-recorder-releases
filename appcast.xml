@@ -7,12 +7,12 @@
   <language>ru</language>
   <item>
     <title>szvon 0.1.3</title>
-    <description><![CDATA[Новая иконка. Плюс: запись только с подключённым аккаунтом, понятный онбординг, вход по ссылке в один клик.]]></description>
-    <pubDate>Thu, 23 Jul 2026 19:48:00 +0000</pubDate>
+    <description><![CDATA[Новая иконка и оформленное окно установки. Плюс: запись только с подключённым аккаунтом, понятный онбординг, вход по ссылке в один клик.]]></description>
+    <pubDate>Thu, 23 Jul 2026 19:58:01 +0000</pubDate>
     <sparkle:version>0.1.3</sparkle:version>
     <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="N7np/ySg6hQ0qe7WGW3IM2PgC8cGO04tq0QM3GGLGoShhzSA2igCF/+8yHJTKVF+gZBO1FXZ4GIOC2iqAyuqBw==" length="3481452" type="application/octet-stream"/>
+    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="fM8vVjqOJ8vC/vHnQl81Y7wmG2Q35i1aCNwALF/3PCtaD3DTdY83eTWTgoDaOXCRwyOEX01f/2Mf5VQIucAVBA==" length="3454537" type="application/octet-stream"/>
   </item>
 </channel>
 </rss>
