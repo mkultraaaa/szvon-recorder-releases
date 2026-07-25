@@ -6,13 +6,13 @@
   <description>Most recent szvon releases for Sparkle auto-update.</description>
   <language>ru</language>
   <item>
-    <title>szvon 0.1.3</title>
-    <description><![CDATA[Новая иконка и оформленное окно установки. Плюс: запись только с подключённым аккаунтом, понятный онбординг, вход по ссылке в один клик.]]></description>
-    <pubDate>Thu, 23 Jul 2026 19:58:01 +0000</pubDate>
-    <sparkle:version>0.1.3</sparkle:version>
-    <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+    <title>szvon 0.1.4</title>
+    <description><![CDATA[Совместимость с macOS 14.4+ (Sonoma). Плюс: новая иконка и окно установки, запись только с подключённым аккаунтом, вход по ссылке в один клик.]]></description>
+    <pubDate>Sat, 25 Jul 2026 09:37:18 +0000</pubDate>
+    <sparkle:version>0.1.4</sparkle:version>
+    <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="fM8vVjqOJ8vC/vHnQl81Y7wmG2Q35i1aCNwALF/3PCtaD3DTdY83eTWTgoDaOXCRwyOEX01f/2Mf5VQIucAVBA==" length="3454537" type="application/octet-stream"/>
+    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="DQd8hTP0r4Xhh0/TLs+ZexyBQbySDp2UEnwJQdi/vsGf5oV8ZXx+nga6FPN58x8TStibA3J5er8fC2ipZm2ZAw==" length="3455445" type="application/octet-stream"/>
   </item>
 </channel>
 </rss>
