@@ -6,13 +6,13 @@
   <description>Most recent szvon releases for Sparkle auto-update.</description>
   <language>ru</language>
   <item>
-    <title>szvon 0.1.5</title>
-    <description><![CDATA[Надёжная загрузка записей даже на нестабильном интернете + видимый статус загрузки. Плюс macOS 14.4+, новая иконка, вход в один клик.]]></description>
-    <pubDate>Sat, 25 Jul 2026 12:11:52 +0000</pubDate>
-    <sparkle:version>0.1.5</sparkle:version>
-    <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+    <title>szvon 0.1.6</title>
+    <description><![CDATA[Записи больше не зависают при смене Wi-Fi — загрузка сама подхватывается без перезапуска приложения.]]></description>
+    <pubDate>Wed, 19 Aug 2026 08:28:53 +0000</pubDate>
+    <sparkle:version>0.1.6</sparkle:version>
+    <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="1MWzoQn2Pjdbk6GCVsEQ80B13k8uJIkfHMDvGMcaEzmlrzWLEWNxeRZvvWBkoQw/b8jzH/9SDXgPaXABPevfDA==" length="3475980" type="application/octet-stream"/>
+    <enclosure url="https://app.szvon.ru/download/szvon.dmg" sparkle:edSignature="yMAUtlwrP83tC6xh70sflfNfe3jcEPO1nCkTQo6+JLzwmBGit3UKdpC4Iavzk+C5SA3s7R9XXVMvfY71Qjd9BQ==" length="3479981" type="application/octet-stream"/>
   </item>
 </channel>
 </rss>
